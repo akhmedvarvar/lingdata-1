@@ -1,0 +1,1161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-09-19T19:01:01+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Users/DOOGLAS/Desktop/videoplayback.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./videoplayback.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:e014a462-dca0-47be-be41-9c4c17b0e448</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">182</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="1950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="2390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="4980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="5485"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="7595"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="7775"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="9930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="10560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="12435"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="14020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="16340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="16980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="24830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="25916"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="27226"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="27566"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="29386"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="30020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="31310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="31330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="34100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="34170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="38240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="38281"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="38971"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="39411"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="40651"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="40710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="40710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="46600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="47321"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="53841"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="54370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="64717"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="64720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="64882"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="65457"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="66570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="66570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="68580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="68680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="69200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="69310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="71410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="71630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="73220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="74330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="83100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="83170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="83360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="83360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="89970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="89970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="96420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="96725"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="100225"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="100680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="101385"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="102925"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="102955"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="103305"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="103340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="104390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="104445"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="107585"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="109870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="109920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="112720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="112780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="115080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="117100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="119960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="120120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="122020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="122160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="125830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="125990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="126047"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="127037"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="135552"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="140422"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="149570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="149610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="153790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="153880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="161130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="161160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="163240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="163350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="166950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="167060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="170350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="170440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="178330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="179110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="181580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="181640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="186470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="186510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="187080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="187210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="203990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="204060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="206290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="206330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="208150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="208340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="211770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="212200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="217520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="217620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="231520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="231640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="233360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="233850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="237850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="238100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts119" TIME_VALUE="240340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="240380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts121" TIME_VALUE="243510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="243990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="250920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="250980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="254300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="254400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="256030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="256120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="267650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="267740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="268640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="268950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts133" TIME_VALUE="273950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts134" TIME_VALUE="274000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts135" TIME_VALUE="275630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts136" TIME_VALUE="275700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts137" TIME_VALUE="277770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts138" TIME_VALUE="277810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts139" TIME_VALUE="299400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts140" TIME_VALUE="299520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts141" TIME_VALUE="303130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts142" TIME_VALUE="303240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts143" TIME_VALUE="305460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts144" TIME_VALUE="305590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts145" TIME_VALUE="315420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts146" TIME_VALUE="315560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts147" TIME_VALUE="318975"/>
+        <TIME_SLOT TIME_SLOT_ID="ts148" TIME_VALUE="319010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts149" TIME_VALUE="322030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts150" TIME_VALUE="322060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts151" TIME_VALUE="328880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts152" TIME_VALUE="328920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts153" TIME_VALUE="333890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts154" TIME_VALUE="333945"/>
+        <TIME_SLOT TIME_SLOT_ID="ts155" TIME_VALUE="335315"/>
+        <TIME_SLOT TIME_SLOT_ID="ts156" TIME_VALUE="335480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts157" TIME_VALUE="340140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts158" TIME_VALUE="340240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts159" TIME_VALUE="344020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts160" TIME_VALUE="344080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts161" TIME_VALUE="351840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts162" TIME_VALUE="351880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts163" TIME_VALUE="359600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts164" TIME_VALUE="359960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts165" TIME_VALUE="364840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts166" TIME_VALUE="364880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts167" TIME_VALUE="369220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts168" TIME_VALUE="369240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts169" TIME_VALUE="375730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts170" TIME_VALUE="375760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts171" TIME_VALUE="378770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts172" TIME_VALUE="378970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts173" TIME_VALUE="382820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts174" TIME_VALUE="382880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts175" TIME_VALUE="384200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts176" TIME_VALUE="384240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts177" TIME_VALUE="388210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts178" TIME_VALUE="388240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts179" TIME_VALUE="388480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts180" TIME_VALUE="396840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts181" TIME_VALUE="397060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts182" TIME_VALUE="400430"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="akhmedvarvar" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@amurtuzaliev1990m" TIER_ID="text@amurtuzaliev1990m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>ассаламу-алейкум //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>хочу обратиться / к / дагестанцам-пацанам //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a99"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>сам из Дагестана / конечно не ко всем //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a100"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>ну к тем / как кто как / ведёт себя как / не знаю / джахили //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a101"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>самые неправильные ребята //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>почему вы / объясните пацаны / вы приезжаете в Москву / ведете себя как быки / ведете себя так как в Дагестане вы себя позволить вести не можете? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>элементарно приведу пример //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>вчера сажусь в такси //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>Ну / едем с таджиком //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>68 лет мужику или 58 / взрослый //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>он меня спрашивает ты откуда / я говорю с Дагестана / брат говорит тогда заранее оплати //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>я говорю почему говорю / че такого //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>или говорит заедем на заправку говорит ты оплатишь  / или я дальше не везу / я спрашиваю у него / почему? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts33">
+                <ANNOTATION_VALUE>он мне отвечает потому что говорит дагестанцы говорит ребята / сто человек говорит посадил молодых ребят / сто человек кинуло //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>вы / доезжаете / говорите мы мусульмане там /  Субхан-Аллах садитесь дай свой номер потом говорите клянусь Аллахом я вам на счет закину / эти... //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>двести триста рублей //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts40" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>кидаете людей / стариков //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts45">
+                <ANNOTATION_VALUE>я вот / не понимаю зачем? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts47">
+                <ANNOTATION_VALUE>че вы этим добиваетесь? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts48" TIME_SLOT_REF2="ts49">
+                <ANNOTATION_VALUE>может кто-то из вас [c-c-щ-щ] себя считает кинув таджиков трем-четырем пацанам / камнями или достойными ребятами что / о-о-о мы кинули а-а-а кидальщики //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts51">
+                <ANNOTATION_VALUE>чё? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a102"
+                TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE> вообще мне так обидно вчера было это слышать / я решил в... / в Контакт док...  / добавить /  это видео снять //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts55">
+                <ANNOTATION_VALUE>обращение ко всем / кому-то это обращение может моё не понравиться / я в любой момент с любым пообщаюсь из вас жи есть //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts56" TIME_SLOT_REF2="ts57">
+                <ANNOTATION_VALUE>я не считаю вас мужиками / почему я могу даже объяснить //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts67">
+                <ANNOTATION_VALUE>приезжают / дагестанцы ребята не все не все / некоторые молодцы / в исламе / хорошо держатся Мар-Шалла братья / ведут себя достойно //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts68" TIME_SLOT_REF2="ts69">
+                <ANNOTATION_VALUE>учатся нормально спортом занимаются все //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts70" TIME_SLOT_REF2="ts73">
+                <ANNOTATION_VALUE>а приезжают в основном кто? / вот с такими причёсками / зауженные джинсы /красные мокасины там / кепки... //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts74" TIME_SLOT_REF2="ts75">
+                <ANNOTATION_VALUE>228 //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts76" TIME_SLOT_REF2="ts77">
+                <ANNOTATION_VALUE>там / никого не просим / чё-то чё-то свою чушь несёте //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts78" TIME_SLOT_REF2="ts83">
+                <ANNOTATION_VALUE>[С] шабите целыми днями на хатах родители вам последние там деньги отдают чтоб вы приехали учились чего-то в жизни добивались /  вы на хатах зависаете шабите в плейстейшены играете курите пьёте по клубам шатаетесь с всякими / [с-шш-с] с путанами общаетесь  жи есть / а потом / приежаете в Дагестан и вы с- Иншаллах братья вы перед братьями Субхан-Аллах Маршаллах / и всё подобное говорите // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
+                TIME_SLOT_REF1="ts84" TIME_SLOT_REF2="ts85">
+                <ANNOTATION_VALUE>а здесь ведёте себя реально как конченые джахили / как немужчины //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
+                TIME_SLOT_REF1="ts86" TIME_SLOT_REF2="ts87">
+                <ANNOTATION_VALUE>эти ваши бесконечные движения в Европейский своими глазами видел как... / даги с дагами в Европейском подрались //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40"
+                TIME_SLOT_REF1="ts88" TIME_SLOT_REF2="ts89">
+                <ANNOTATION_VALUE>как можете вы драться так? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41"
+                TIME_SLOT_REF1="ts90" TIME_SLOT_REF2="ts91">
+                <ANNOTATION_VALUE>зачем? / неужели сабором нельзя решить / языком решать эти вопросы //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42"
+                TIME_SLOT_REF1="ts92" TIME_SLOT_REF2="ts93">
+                <ANNOTATION_VALUE>вам нет вам надо же показать что вы крепкие / что вы сильные //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43"
+                TIME_SLOT_REF1="ts94" TIME_SLOT_REF2="ts95">
+                <ANNOTATION_VALUE>проходит парень с девушкой да русские / вы этого пацана плечом задеваете / или вот так разговариваете когда вас три-четыре человека на одного //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44"
+                TIME_SLOT_REF1="ts96" TIME_SLOT_REF2="ts97">
+                <ANNOTATION_VALUE>ведите себя правильней / пацаны //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52"
+                TIME_SLOT_REF1="ts98" TIME_SLOT_REF2="ts99">
+                <ANNOTATION_VALUE>я стольких Маршаллах / дагестанцев знаю / некоторые из них мусульмане //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54"
+                TIME_SLOT_REF1="ts100" TIME_SLOT_REF2="ts101">
+                <ANNOTATION_VALUE>некоторые //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55"
+                TIME_SLOT_REF1="ts102" TIME_SLOT_REF2="ts103">
+                <ANNOTATION_VALUE>#нрзб# в своё время мусульмане ну нравственные ребята которые ведут себя достойно своих родителей не подводят / кто в спортзалах пропадает кто с книжками сидит / кто чем-то бизнесом занимается чем-то а вы приезжаете сюда снимаете хату пять-шесть человек / одеваетесь выходите в эти Манежки / Европейские кипиши создаёте //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57"
+                TIME_SLOT_REF1="ts104" TIME_SLOT_REF2="ts105">
+                <ANNOTATION_VALUE>кого-то подкалываете / там цепляете //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58"
+                TIME_SLOT_REF1="ts106" TIME_SLOT_REF2="ts107">
+                <ANNOTATION_VALUE>вам самим это не стыдно? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59"
+                TIME_SLOT_REF1="ts108" TIME_SLOT_REF2="ts109">
+                <ANNOTATION_VALUE>вы когда последний раз своих родителей радовали реально чем-то? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a60"
+                TIME_SLOT_REF1="ts110" TIME_SLOT_REF2="ts111">
+                <ANNOTATION_VALUE>чей / из / вас / отец может сказать вот я воспитал сына-мужчину я им горжусь жи есть //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61"
+                TIME_SLOT_REF1="ts112" TIME_SLOT_REF2="ts113">
+                <ANNOTATION_VALUE>это мужик-парень который мне помогает который звонит отцу говорит / папа чем тебе помочь чё тебе отправить / мама / давайте я вам чё-нибудь помогу приезжайте / вы же знаете только утром проснуться / пары / если где-то учились ещё не исключили прогулять //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63"
+                TIME_SLOT_REF1="ts114" TIME_SLOT_REF2="ts115">
+                <ANNOTATION_VALUE>где-то шабнуть там / чё-то //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64"
+                TIME_SLOT_REF1="ts116" TIME_SLOT_REF2="ts117">
+                <ANNOTATION_VALUE>и ходить по городу вы Гераклы / вы там я не знаю кто / мастера спорта //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65"
+                TIME_SLOT_REF1="ts118" TIME_SLOT_REF2="ts119">
+                <ANNOTATION_VALUE>до обычных пацанов докапываться и думают //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a66"
+                TIME_SLOT_REF1="ts120" TIME_SLOT_REF2="ts121">
+                <ANNOTATION_VALUE>вот мы камни толпой побили там / кого-то //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a67"
+                TIME_SLOT_REF1="ts122" TIME_SLOT_REF2="ts123">
+                <ANNOTATION_VALUE>эти свои стволы держитесь это не только к дагам относится / также относится ко многим чеченцам-пацанам / я многих знаю тоже таких же //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68"
+                TIME_SLOT_REF1="ts124" TIME_SLOT_REF2="ts125">
+                <ANNOTATION_VALUE>которые вот здесь стволы свои держат / в универ со стволами приходят //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a69"
+                TIME_SLOT_REF1="ts126" TIME_SLOT_REF2="ts127">
+                <ANNOTATION_VALUE>чё вы этим добиваетесь? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a70"
+                TIME_SLOT_REF1="ts128" TIME_SLOT_REF2="ts129">
+                <ANNOTATION_VALUE>если вы такие ребята много способные / если вы чё-то можете сделать да / #нрзб# салам / выйдите идите на ринг / покажите себя там чтоб вас знали вот например там / Мага или вот там / Умар //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a71"
+                TIME_SLOT_REF1="ts130" TIME_SLOT_REF2="ts131">
+                <ANNOTATION_VALUE>они там //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a72"
+                TIME_SLOT_REF1="ts132" TIME_SLOT_REF2="ts133">
+                <ANNOTATION_VALUE>камни-пацаны да / вот все за них говорят они там чемпионы мира по боям без правил не боям без правил //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a73"
+                TIME_SLOT_REF1="ts134" TIME_SLOT_REF2="ts135">
+                <ANNOTATION_VALUE>вы же этого не делаете //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a74"
+                TIME_SLOT_REF1="ts136" TIME_SLOT_REF2="ts137">
+                <ANNOTATION_VALUE>вы такие герои когда вас много //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a75"
+                TIME_SLOT_REF1="ts138" TIME_SLOT_REF2="ts139">
+                <ANNOTATION_VALUE>ведите себя достойней пацаны почему я такой же дагестанец как и вы должен краснеть и мне #нрзб# обидно было / когда я вчера отдал этому таксисту деньги я говорю / ты не думай говорю мне во... / рубля твоего не нужно я бы / если денег не было в кармане в такси бы не сел / он говорит брат #нрзб# Аллахом я завтра иду говорит / вот сегодня пятница братья / я завтра на джума-намаз иду говорит / я в мечеть эти деньги отдам //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a76"
+                TIME_SLOT_REF1="ts140" TIME_SLOT_REF2="ts141">
+                <ANNOTATION_VALUE>нуу / представляете захет / я эти деньги отдам в мечеть  //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a77"
+                TIME_SLOT_REF1="ts142" TIME_SLOT_REF2="ts143">
+                <ANNOTATION_VALUE>а вы же кидаете их! //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a78"
+                TIME_SLOT_REF1="ts144" TIME_SLOT_REF2="ts145">
+                <ANNOTATION_VALUE>я вообще не понимаю к чему вы хотите добиться / чё это приведёт / к чему хорошему почему / из-за десятерых-пятнадцати человек нас должны ненавидеть? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a79"
+                TIME_SLOT_REF1="ts146" TIME_SLOT_REF2="ts147">
+                <ANNOTATION_VALUE>проходят девочки вы этих девочек подкалываете А! У! //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a81"
+                TIME_SLOT_REF1="ts148" TIME_SLOT_REF2="ts149">
+                <ANNOTATION_VALUE>их ребята чё-то говорят ребят толпой бьёте вы Гераклы //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a82"
+                TIME_SLOT_REF1="ts150" TIME_SLOT_REF2="ts151">
+                <ANNOTATION_VALUE>а когда вас своими глазами видел / пацаны когда вас забирают / в ГУВД когда мне говорят там этих пацанов забрали там // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a83"
+                TIME_SLOT_REF1="ts152" TIME_SLOT_REF2="ts153">
+                <ANNOTATION_VALUE>вы там сидите плачете в слезах слёзы вытираете / отпустите пожалуйста больше не буду //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a84"
+                TIME_SLOT_REF1="ts154" TIME_SLOT_REF2="ts155">
+                <ANNOTATION_VALUE>по глупости попал //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a85"
+                TIME_SLOT_REF1="ts156" TIME_SLOT_REF2="ts157">
+                <ANNOTATION_VALUE>ведите себя правильно / ребят я реально ваще в шоке ваще как мне говорят да даг //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a86"
+                TIME_SLOT_REF1="ts158" TIME_SLOT_REF2="ts159">
+                <ANNOTATION_VALUE>во... / слышите ты из Дагестана / сразу мнение ух чё за говорю пацан //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a87"
+                TIME_SLOT_REF1="ts160" TIME_SLOT_REF2="ts161">
+                <ANNOTATION_VALUE>мне вчера таксист этот крче / чеченцы не кидают говорит на деньги / ингуши не кидают на деньги осетины не кидают / негры не кидают говорит / даги кидают! //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a88"
+                TIME_SLOT_REF1="ts162" TIME_SLOT_REF2="ts163">
+                <ANNOTATION_VALUE>вот дагестанцы / они не знаю вы чё думаете что вы кинув какого-то таджика которому 58 лет / толпой пацанов / вы чё герои что ли? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a89"
+                TIME_SLOT_REF1="ts164" TIME_SLOT_REF2="ts165">
+                <ANNOTATION_VALUE>идите в Махачкале кидайте да где у каждого таксиста такой же ствол висит прострелит насквозь //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a90"
+                TIME_SLOT_REF1="ts166" TIME_SLOT_REF2="ts167">
+                <ANNOTATION_VALUE>идите кидайте в Дербенте в Махачкале в Хасавюрте / вы этого не можете делать жи есть //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a92"
+                TIME_SLOT_REF1="ts168" TIME_SLOT_REF2="ts169">
+                <ANNOTATION_VALUE>я столько на эмоциях это говорю / кому-то это не понравится / я с любым могу обсудить этот вопрос кулюб с Аллахом / единственным //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a93"
+                TIME_SLOT_REF1="ts170" TIME_SLOT_REF2="ts171">
+                <ANNOTATION_VALUE>просто хватит пацаны / ведите себя достойней! //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a94"
+                TIME_SLOT_REF1="ts172" TIME_SLOT_REF2="ts173">
+                <ANNOTATION_VALUE>не воспринимайте каждый на свой счёт это / это может каждого цеплять в своей жизни //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a95"
+                TIME_SLOT_REF1="ts174" TIME_SLOT_REF2="ts175">
+                <ANNOTATION_VALUE>просто будьте правильными //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a96"
+                TIME_SLOT_REF1="ts176" TIME_SLOT_REF2="ts177">
+                <ANNOTATION_VALUE>делайте так чтобы ваши родители за вас радовались / совершайте свой намаз //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a97"
+                TIME_SLOT_REF1="ts178" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE>Придите в свою религию, поддерживайте, а не позорьте себя и нас, всех окружающих ваших... таких же дагестанцев, как и вы Я спрашиваю у него: "Почему?"</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a103"
+                TIME_SLOT_REF1="ts179" TIME_SLOT_REF2="ts180">
+                <ANNOTATION_VALUE>придите в свою религию / поддерживайте а не позорьте ссебя и нас / всех окружающих ваш... / таких же дагестанцев как и вы //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a98"
+                TIME_SLOT_REF1="ts181" TIME_SLOT_REF2="ts182">
+                <ANNOTATION_VALUE>хватит да пацаны / давайте салам-алейкум //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="akhmedvarvar" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@amurtuzaliev1990m" TIER_ID="Gestures">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>Разводит руками, ищет подходящее слово</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>Имитация недоумения при задавании вопроса, минивсплескивание руками.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>Взброс руки; подбирает подходящее число для более удачного примера.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>Пожимает плечами в недоумении.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>Засучивает рукава</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>Пальцем указывает на то, что обращается не ко всем, а лишь к опредлённой группе людей, конкретизация.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47"
+                TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>Засучивает рукава</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48"
+                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>С помощью жестов акцентирует внимание и подчёркивает своё благоприятное отношение к группе людей.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49"
+                TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>Имитирует "такую причёску", взъерошивая волосы </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50"
+                TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>Имитирует процесс курения рукой</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51"
+                TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>Активно жестикулирует при перечислении для подчёркивания важности</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="akhmedvarvar" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation"
+        PARENT_REF="text@amurtuzaliev1990m"
+        PARTICIPANT="@amurtuzaliev1990m" TIER_ID="transl@amurtuzaliev1990m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a104" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>salaam alaikum //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a105" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>wanna appeal / to / dagestani-guys //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a106" ANNOTATION_REF="a99">
+                <ANNOTATION_VALUE>from Dagestan myself / of course not to everyone //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a107" ANNOTATION_REF="a100">
+                <ANNOTATION_VALUE>like to the ones / like who like / behave like / I don't know / jahils //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a108" ANNOTATION_REF="a101">
+                <ANNOTATION_VALUE>most undecent guys //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a109" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>why do you / explain guys / you move to Moscow / behave like byki / behave the way you can't allow yourself to behave in Dagestan //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a110" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>elentarily I will give an example //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a111" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>yesterday I was taking a taxi //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a112" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>so / going with tajik //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a113" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>man is 68 years old or 58 / old enough //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a114" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>he asks me where are you from / I say from Dagestan / brother he says then pay in advance //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a115" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>I tell why I tell / what's wrong //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a116" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>or he tells we stop at the gas station he tells you will pay / or I'm not going further / I ask him / why?/ //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a117" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>he answers me because he says dagestani he says guys / I took hundred men he says young guys / and hundred men dumped me //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a118" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>you / get to the place / tell we are like muslims / Subhan-Allah you take give me your number later you say I swear on Allah I will send you / these... //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a119" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>two three hundred rubles //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a120" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>you are dumping people / old men //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a121" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>I just / don't understand what for? //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a122" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>what do you want to achieve by that? //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a123" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>maybe some of you feel like after dumping tajiks 3-4 guys / kamni or decent people like / o-o-o we dumped him a-a-a dumpers //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a124" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>uh? //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a125" ANNOTATION_REF="a102">
+                <ANNOTATION_VALUE>it was so hurtful yesterday for me to hear it / I decided to... / add to / VKontakte / to make this video //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a126" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>this is a message to everyone / some won't like this my message / I'm ready to talk about it with anyone at any time //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a127" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>I don't see you as men / I can even explain why //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a128" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>they move / dagestani guys not all not all / some are good / in islam / they're doing good Mar-Shallah brothers / they behave properly //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a129" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>they study well do sports all of them //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a130" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>but in general who moves here? / with such haircuts / skinny jeans / red mocassins like / caps... //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a131" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>228 //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a132" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>like / ~not askin anyone~ / something that like talk your nonsense //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a133" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>you puff whole day in flats parents give you like their last like money for you to come here to study to achieve something in life / you hang out in flats puff play playstations smoke drink alcohol wander the nightclubs deal with some kind / of hookers ~ji est'~ / and then / you come back to Dagestan and you're immed- Inshallah brothers you are like Subhan-Allah Marshallah before brothers / and tell all like that //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a134" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>but here you behave like really total jahils / like not men //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a135" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>all your walks in Yevropeyskii I saw with my own eyes how / dags have been in fight with dags in Yevropeiskii //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a136" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>how can you fight? //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a137" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>what for? / can't you solve it with ~sabor~ / solve these things with language //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a138" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE>but no you need to show that you are hard / that you are strong //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a139" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE>a guy and a girl pass by yeah like russians / you bump this guy's shoulder / or talk to him like that when you're 3-4 people against one //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a140" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE>behave more properly / guys //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a141" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>I know so much Marshallah / dagestanis / some of them are muslims //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a142" ANNOTATION_REF="a54">
+                <ANNOTATION_VALUE>some //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a143" ANNOTATION_REF="a55">
+                <ANNOTATION_VALUE>#nrzb# #untranslatable# muslims like moral guys that behave properly do not let their parents down / some are lost in gyms some are deep in books / some do something like business like something and you move here rent a flat for 5-6 persons / dress up go to these Manejki / Yevropeyskii make ~kipish~ //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a144" ANNOTATION_REF="a57">
+                <ANNOTATION_VALUE>tease somebody / like pester //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a145" ANNOTATION_REF="a58">
+                <ANNOTATION_VALUE>aren't you ashamed of that yourself? //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a146" ANNOTATION_REF="a59">
+                <ANNOTATION_VALUE>when did you make your parents happy last time really with something? //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a147" ANNOTATION_REF="a60">
+                <ANNOTATION_VALUE>whose / of / you / father can say that like I raised son-man I am proud of him ~ji est'~ //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a148" ANNOTATION_REF="a61">
+                <ANNOTATION_VALUE>this is real man that helps me that calls father says / dad how can I help what should I send to you / mom / let me help you with something come here / but you know only wake up in the morning skip / lectures / if you studied somewhere not expelled yet //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a149" ANNOTATION_REF="a63">
+                <ANNOTATION_VALUE>puff somewhere like / something //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a150" ANNOTATION_REF="a64">
+                <ANNOTATION_VALUE>and walk around the city you are Heracleses / you are like I don't know who / masters of sports //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a151" ANNOTATION_REF="a65">
+                <ANNOTATION_VALUE>they bother normal guys and think //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a152" ANNOTATION_REF="a66">
+                <ANNOTATION_VALUE>we are ~kamni~ we beat like in the mob / someone // </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a153" ANNOTATION_REF="a67">
+                <ANNOTATION_VALUE>and these glocks of yours you hold this refers not only to dags / this refers also to chechens - guys / I know a lot of such guys //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a154" ANNOTATION_REF="a68">
+                <ANNOTATION_VALUE>that have their glocks here / go to university with glocks //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a155" ANNOTATION_REF="a69">
+                <ANNOTATION_VALUE>what do you achieve by this? //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a156" ANNOTATION_REF="a70">
+                <ANNOTATION_VALUE>if you are so much talented guys / if you can do something you know / #nrzb# salam / step- get in the ring / show yourselves there so you will be known like for example like / Maga or like / Umar //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a157" ANNOTATION_REF="a71">
+                <ANNOTATION_VALUE>they like //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a158" ANNOTATION_REF="a72">
+                <ANNOTATION_VALUE>~kamni~ - guys you know / everyone speaks for them they are like champions in ultimate fightings or not ultimate fightings //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a159" ANNOTATION_REF="a73">
+                <ANNOTATION_VALUE>but you don't do that //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a160" ANNOTATION_REF="a74">
+                <ANNOTATION_VALUE>you are such heroes when there are many people with you //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a161" ANNOTATION_REF="a75">
+                <ANNOTATION_VALUE>behave more properly guys why should I dagestani just like you blush for you and for me #nrzb# it was hurtful / when I gave money to this taxi driver yesterday I told him / don't think I don't at all...  / I don't need your money I wouldn't / if I had no money in my pocket I wouldn't take a taxi / he says brother #nrzb# on Allah tomorrow I go to / today is friday brothers / tomorrow I go to juhma-prayer / I'll give these money to mosque //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a162" ANNOTATION_REF="a76">
+                <ANNOTATION_VALUE>liike / imagine ~zakhet~ / I'll give these money to mosque //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a163" ANNOTATION_REF="a77">
+                <ANNOTATION_VALUE>and you dump them! //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a164" ANNOTATION_REF="a78">
+                <ANNOTATION_VALUE>I don't understand at all to what- what you want to achieve / what will it lead to / to what good why / should we be hated because of 10-15 people? //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a165" ANNOTATION_REF="a79">
+                <ANNOTATION_VALUE>girls walk by you tease these girls AH! UH! //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a166" ANNOTATION_REF="a81">
+                <ANNOTATION_VALUE>their guys tell you something you beat them with a mob you are Heracleses //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a167" ANNOTATION_REF="a82">
+                <ANNOTATION_VALUE>and when you I've seen with my own eyes / guys when you get busted / to ~GUVD~ when i get told that like these guys got busted //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a168" ANNOTATION_REF="a83">
+                <ANNOTATION_VALUE>you're sitting there crying in tears / let us go please I won't do it again //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a169" ANNOTATION_REF="a84">
+                <ANNOTATION_VALUE>I'm here because of stupidity //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a170" ANNOTATION_REF="a85">
+                <ANNOTATION_VALUE>behave properly / guys I'm really shocked really how i get told like dag yeah? //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a171" ANNOTATION_REF="a86">
+                <ANNOTATION_VALUE>in... / you hear you are from Dagestan / immediate opinion is uh what is this boy //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a172" ANNOTATION_REF="a87">
+                <ANNOTATION_VALUE>this taxi driver in short to me / chechens don't he says dump / ingushes don't dump / osetinians don't dump / blacks don't dump he says / dags dump! //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a173" ANNOTATION_REF="a88">
+                <ANNOTATION_VALUE>that dagestanis / they are I don't know do you think that by dumping some tajik that is 58 years old / by a bunch of guys / you are heroes or something? //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a174" ANNOTATION_REF="a89">
+                <ANNOTATION_VALUE>go dump in Makhachkala you know where every taxi driver got same glock it shoots through //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a175" ANNOTATION_REF="a90">
+                <ANNOTATION_VALUE>go dump in Derbent in Makhachkala in Khasavurt / you can't do this ~ji est'~ //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a176" ANNOTATION_REF="a92">
+                <ANNOTATION_VALUE>I tell so much this on emotions / some won't like it / I can discuss it with anyone ~kulyub s Allah'om yedinstvennym~ //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a177" ANNOTATION_REF="a93">
+                <ANNOTATION_VALUE>just stop it guys / behave more properly! //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a178" ANNOTATION_REF="a94">
+                <ANNOTATION_VALUE>don't take it everyone personally / this can touch everybody in the life //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a179" ANNOTATION_REF="a95">
+                <ANNOTATION_VALUE>just be decent //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a180" ANNOTATION_REF="a96">
+                <ANNOTATION_VALUE>do so that you parents will be happy for you / do your prayer //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a181" ANNOTATION_REF="a103">
+                <ANNOTATION_VALUE>come to your religion / support and not disgrace yoursselves and all of us / all that around you... / same dagestanis as you //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a182" ANNOTATION_REF="a98">
+                <ANNOTATION_VALUE>stop it guys / ~davayte~ salaam alaikum //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <LOCALE LANGUAGE_CODE="en" VARIANT="ASCII"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
